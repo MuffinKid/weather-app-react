@@ -1,3 +1,5 @@
+Weather app made with react.js and WeatherMap Api. With dynamic css backgrounds
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
